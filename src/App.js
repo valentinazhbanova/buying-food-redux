@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Dishes from './Components/DishesComponents/Dishes';
 import AllCategories from './Components/Filter/AllCategories';
